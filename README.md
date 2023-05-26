@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakib Sarder</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 - 🌱 I’m currently learning **React, MongoDb, Express JS, JWT**
 
 <h3 align="left">Connect with me:</h3>
