@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sakib-sarder/sakib-sarder/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sakib Sarder</h1>
 
